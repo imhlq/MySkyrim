@@ -1,0 +1,85 @@
+(Part 1) Engine Fixes 4.13 for SSE 1.5.97 - skse64 plugin-17230-4-13-1579276880
+3.4.2-670-3-4-2
+360 Movement Behavior-33139-1-3-1-1583688288
+9.0.1 A Quality World Map - Vivid with Stone Roads-5804-9-0-1
+Acquisitive Soul Gems Multithreaded-1469-4-6-6r-1553628108
+Alternate Start - Live Another Life-272-4-1-3-1579143151
+AMatterOfTime_v3_0_0_alpha_4-12937-v3-0-0a4
+Apocalypse - Magic of Skyrim CHS(MCM)-7934-9-45-1567659846
+Apocalypse - Ordinator Compatibility Patch WHY DO I HAVE TO CHANGE THE NAME-1090-
+Apocalypse - Ordinator Compatibility Patch-CHS-7934-9-45-1567660212
+Apocalypse v945-1090-9-45
+Arcanum - A New Age of Magic SE CHS-23773-2-1b-1570359188
+Arcanum - Main File-23488-2-1b-1571273265
+Auto Hide Ammo-1882-4-1-1549932016
+BarenziahQuestMarkers SSE v1-3-1-684-1-3-1
+Bethesda Intro Logo Replaced - 1080p-14872-2-0-1547651139
+Better Dialogue Controls v1_2-1429-1-2
+Chinese Translation for Alternate Start - Live Another Life (CHS)-2767-2020-01-16-1579144168
+Chinese Translation for Cutting Room Floor (CHS)-1338-3-1-7-1580002918
+Chinese Translation for Immersive Armors (CHS)-2766-2016-11-22
+Chinese Translation for SkyUI (CHS)-1342-2017-10-04
+Chinese Translation for Unofficial Skyrim Special Edition Patch (CHS)-1354-2020-03-07-1-1583593314
+Chinese Translation Patch-1469-4-6-5-CHINESE
+Cutting Room Floor-276-3-1-7-1579995773
+DreamBurrow Regal Huntsman Armor-SSE-2-0-9368-2-0
+ELFXEnhancer-33934-3-06-1585067287
+ENB Helper SE 1.5 for SSE 1.5.97-23174-1-5-1574569443
+Enhanced Lights and FX-2424-3-06
+EnhancedLightsandFX-33934-3-06-1585066793
+Experience-17751-1-1-0-1580493054
+FNIS Behavior SE 7_6-3038-7-6-1582048023
+Footprints 1.5.3-3808-1-5-3
+Frankly HD Dragonbone and Dragonscale 2k-25110-1-0-1555502184
+HarvestOverhaul_Redone_AIO_Installer-2398-1-0-1-1562442883
+Ice Cave Parallax Improved 1.4.1-24987-1-4-1-1556073704
+Immersive Armors 8.1 SSE Test-3479-8-1
+Immersive Citizens - AI Overhaul-173-0-4
+Immersive Citizens - AI Overhaul-CHS-16167-0-4-1569031459
+Immersive Sounds Compendium SSE 2.2-523-2-2-1547767621
+Infinite Ore Veins - SSE-2320-
+JK's Skyrim all in one-6289-1-6-1555210753
+JK's Skyrim Chinese Translation-30460-1-6-1574168477
+KS Hairdo's SSE - Male-6817-1-6M-1569165918
+Lanterns Of Skyrim II - FOMOD-30817-v2-0-1579732053
+Modern Brawl Bug Fix v104-1473-1-04
+mods.txt
+moreHUD SE-12688-3-7-1-1584889403
+NATKV
+Ordinator - Perks of Skyrim CHS-8081-9-28-1-1580164036
+Ordinator 9.28.1-1137-9-28-1-1580147433
+QUASIPC - Unified Patch Compendium v2_5_0-18369-2-5-0-1557483615
+RaceMenu Special Edition v0-4-12-19080-0-4-12-1576724270
+RDO Patches Final-1187-Final
+Realistic Water Two v2.2.2-2182-2-2-2-1579057528
+Relationship Dialogue Overhaul - RDO Final-1187-Final
+Relationship Dialogue Overhaul - RDO SE - CNS-33398-Final-1583659074
+Rich Skyrim Merchants-1772-2-0
+Rudy HQ - Falling Leaves and Needles for ENB Intense SE-25939-1-0-1558486047
+Rudy HQ - Hay SE - Version03-25125-1-1-1555942403
+Septim - a coin retexture-24465-1-0-1553546283
+Serana Dialogue Edit
+SeranaDialogEdit v 102-16222-1-02
+Skyrim 2020 2.7 by Pfuscher-2347-2-7-1579618795
+Skyrim Flora Overhaul SE v2.72D-2154-2-72D-1582215490
+Skyrim Skill Uncapper-8889-V1-1-0
+SkyTEST - Realistic Animals and Predators 1_65 NOSM (No SurvivalMode)-1104-1-65
+SkyUI_5_2_SE-12604-5-2SE
+SMIM SE 2-08-659-2-08
+SSE Parallax Shader Fix v1.0 (BETA)-31963-1-0-1579609660
+Summermyst - Enchantments of Skyrim(CHS)-6848-3-07SSE-T-1568552200
+Summermyst v307-6285-3-07SSE
+Thunderchild - Epic Shouts and Immersion CHS-8707-4-11SSE-N-1567770744
+Thunderchild v411-1460-4-11SSE
+True Storms - Main File 1.0.2-2472-1-0-2-1569804173
+Unofficial Chinese Translation for Skyrim Special Edition (CHS)-1333-8-19-1583718318
+Unofficial Skyrim Special Edition Patch-266-4-2-2-1580064134
+UNP Female Body Renewal 4.6-1699-4-6
+Unread Books Glow SSE 2.2.1-1296-2-2-1
+UUNP Tera Armors Collection - Special Edition V1.9-9651-1-9-1573221253
+Volumetric Mists 1.4.1b-29273-1-4-1b-1573355630
+vortex.deployment.msgpack
+Wildcat - Combat of Skyrim-700N CHS(MCM)-8749-7-00SSE-N-1567766288
+Wildcat v700-1368-7-00SSE
+XP32 Maximum Skeleton Special Extended-1988-4-71-1577467636
+Zim's Immersive Artifacts V1.5.3-9138-V1-5-3-1552753791
